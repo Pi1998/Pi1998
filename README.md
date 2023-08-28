@@ -18,10 +18,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pi1998/Pi1998/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Pi1998.Pi1998&"  />
 </div>
