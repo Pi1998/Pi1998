@@ -100,7 +100,7 @@
 
 <div align="center">
   
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31y64h2aj6d43fx3mmzy4hpgyypa)
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31y64h2aj6d43fx3mmzy4hpgyypa&count={count})
 </div>
 
 ###
