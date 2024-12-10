@@ -100,7 +100,8 @@
 
 <div align="center">
   
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sneggbbnzjv5d5jwzjmp46t4di)
+  ![Alt text](
+  https://open.spotify.com/collection/tracks)
 </div>
 
 ###
