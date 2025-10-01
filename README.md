@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">- I'm a Remote Full-Stack Web Developer from Myanmar 💻💻💻<br>- Actively seeking fresh avenues 💡💡💡</p>
+<p align="left">- I'm a Web Developer from Myanmar 💻💻💻<br>- Actively seeking fresh avenues 💡💡💡</p>
 
 ###
 
